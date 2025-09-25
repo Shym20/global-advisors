@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    
+<!-- Mirrored from Navraj Global Advisors.geekslabthemes.com/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Jul 2025 11:03:35 GMT -->
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="">
+
+        <!-- Site Title -->
+        <title>Navraj Global Advisors - Business Consulting HTML Template</title>
+
+        <!-- Place favicon.ico in the root directory -->
+        <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+
+        <!-- CSS here -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+        <link rel="stylesheet" href="assets/css/venobox.min.css">
+        <link rel="stylesheet" href="assets/css/odometer.min.css">
+        <link rel="stylesheet" href="assets/css/nice-select.css">
+        <link rel="stylesheet" href="assets/css/carouselTicker.css">
+        <link rel="stylesheet" href="assets/css/swiper.min.css">
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+
+    <body>
+
+        <!-- Preloader -->
+        <div id="preloader">
+            <div id="container" class="container-preloader">
+                <div class="preloader-anim">
+                    <div class="loading" data-loading-text="Navraj Global Advisors"></div>
+                </div>
+                <div class="preloader-area area-left"></div>
+                <div class="preloader-area area-right"></div>
+            </div>
+        </div>
+
+        <!-- header-area-start -->
+        <header class="header sticky-active">
+            <div class="primary-header">
+                <div class="header-wrap">
+                    <div class="primary-header-inner">
+                        <div class="header-logo d-lg-block">
+                            <a href="index-2.html">
+                                <img src="assets/img/logo/logo-1.png" alt="logo">
+                            </a>
+                        </div>
+                        <div class="header-menu-wrap">
+                            <div class="mobile-menu-items">
+                                <ul>
+                                    <li class="menu-item-has-children">
+                                        <a href="index-2.html">Home</a>
+                                        <ul>
+                                            <li><a href="index-2.html">Business Consulting</a></li>
+                                            <li><a href="index-3.html">Financial Consulting</a></li>
+                                            <li><a href="index.html">Corporate Consulting</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li class="menu-item-has-children">
+                                        <a href="#">Pages</a>
+                                        <ul>
+                                            <li><a href="portfolio.html">Portfolio</a></li>
+                                            <li><a href="portfolio-details.html">Portfolio Details</a></li>
+                                            <li><a href="team.html">Team</a></li>
+                                            <li><a href="team-details.html">Team Details</a></li>
+                                            <li><a href="pricing.html">Pricing Plans</a></li> 
+                                            <li><a href="error.html">404 Error</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="service.html">Services</a>
+                                        <ul>
+                                            <li><a href="service.html">Service</a></li>
+                                            <li><a href="service-details.html">Service Details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item-has-children">
+                                        <a href="blog-grid.html">Blog</a>
+                                        <ul>
+                                            <li><a href="blog-grid.html">Blog Grid</a></li>
+                                            <li><a href="blog-standard.html">Blog Standard</a></li>
+                                            <li><a href="blog-details.html">Blog Details</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact.html">Contacts</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- /.header-menu-wrap -->
+                        <div class="header-right-wrap">
+                            <div class="header-right">
+                                <div class="header-btn-wrap">
+                                    <a href="contact.html" class="cp-primary-btn header-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Let’s Talk</span>
+                                            <span class="btn-text-2">Let’s Talk</span>
+                                        </span>
+                                    </a>
+                                </div>
+                                <div class="sidebar-icon">
+                                    <button class="sidebar-trigger open">
+                                        <span></span>
+                                        <span></span>
+                                        <span></span>
+                                    </button>
+                                </div>
+                                <div class="header-right-item d-lg-none d-md-block">
+                                    <a href="javascript:void(0)" class="mobile-side-menu-toggle">
+                                        <img src="assets/img/icon/mobile-menu.png" alt="icon">
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- /.header-right -->
+                        </div>
+                    </div>
+                    <!-- /.primary-header-inner -->
+                </div>
+            </div>
+        </header>
+        <!-- /.Main Header -->
+
+        <div id="popup-search-box">
+            <div class="box-inner-wrap d-flex align-items-center">
+                <form id="form" action="#" method="get" role="search">
+                    <input id="popup-search" type="text" name="s" placeholder="Type keywords here...">
+                </form>
+                <div class="search-close"><i class="fa-sharp fa-regular fa-xmark"></i></div>
+            </div>
+        </div>
+        <!-- /#popup-search-box -->
+
+        <div id="sidebar-area" class="sidebar-area">
+            <button class="sidebar-trigger close">
+                <svg
+                    class="sidebar-close"
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    x="0px"
+                    y="0px"
+                    width="16px"
+                    height="12.7px"
+                    viewBox="0 0 16 12.7"
+                    style="enable-background: new 0 0 16 12.7"
+                    xml:space="preserve">
+                    <g>
+                        <rect
+                            x="0"
+                            y="5.4"
+                            transform="matrix(0.7071 -0.7071 0.7071 0.7071 -2.1569 7.5208)"
+                            width="16"
+                            height="2"
+                        ></rect>
+                        <rect
+                            x="0"
+                            y="5.4"
+                            transform="matrix(0.7071 0.7071 -0.7071 0.7071 6.8431 -3.7929)"
+                            width="16"
+                            height="2"
+                        ></rect>
+                    </g>
+                </svg>
+            </button>
+            <div class="side-menu-content">
+                <div class="side-menu-logo">
+                    <a class="dark-img d-none d-lg-block" href="index-2.html"><img src="assets/img/logo/logo-2.png" alt="logo"></a>
+                    <a class="dark-img d-lg-none d-block" href="index-2.html"><img src="assets/img/logo/logo-1.png" alt="logo"></a>
+                </div>
+                <div class="side-menu-wrap"></div>
+                <div class="side-menu-about">
+                    <div class="side-menu-header">
+                        <h3>About Us</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud nisi ut aliquip ex ea commodo consequat.</p>
+                    <a href="contact.html" class="cp-primary-btn">
+                        <span class="btn-text">
+                            <span class="btn-text-1">Contact us</span>
+                            <span class="btn-text-2">Contact us</span>
+                        </span>
+                    </a>
+                </div>
+                <div class="side-menu-contact">
+                    <div class="side-menu-header">
+                        <h3>Contact Us</h3>
+                    </div>
+                    <ul class="side-menu-list">
+                        <li>
+                            <i class="fas fa-map-marker-alt"></i>
+                            <p>Navraj Global Advisors, 221 Nirman Apartments, New Delhi, 110091, </p>
+                        </li>
+                        <li>
+                            <i class="fas fa-phone"></i>
+                            <a href="tel:+000123456789">+000 123 (456) 789</a>
+                        </li>
+                        <li>
+                            <i class="fas fa-envelope-open-text"></i>
+                            <a href="mailto:Navraj Global Advisors@gmail.com">info@navrajglobal.com</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="side-menu-social">
+                    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="g-plus"><a href="#"><i class="fab fa-fab fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <!--/.sidebar-area-->
+
+        <div class="mobile-side-menu">
+            <div class="side-menu-content">
+                <div class="side-menu-head">
+                    <a href="index-2.html"><img src="assets/img/logo/logo-1.png" alt="logo"></a>
+                    <button class="mobile-side-menu-close"><i class="fa-regular fa-xmark"></i></button>
+                </div>
+                <div class="side-menu-wrap"></div>
+                <div class="side-menu-contact">
+                    <div class="side-menu-header">
+                        <h3>Contact Us</h3>
+                    </div>
+                    <ul class="side-menu-list">
+                        <li>
+                            <i class="fas fa-map-marker-alt"></i>
+                            <p>Navraj Global Advisors, 221 Nirman Apartments, New Delhi, 110091, </p>
+                        </li>
+                        <li>
+                            <i class="fas fa-phone"></i>
+                            <a href="tel:+000123456789">+000 123 (456) 789</a>
+                        </li>
+                        <li>
+                            <i class="fas fa-envelope-open-text"></i>
+                            <a href="mailto:Navraj Global Advisors@gmail.com">info@navrajglobal.com</a>
+                        </li>
+                    </ul>
+                </div>
+                <ul class="side-menu-social">
+                    <li class="facebook"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                    <li class="instagram"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    <li class="twitter"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                    <li class="g-plus"><a href="#"><i class="fab fa-fab fa-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- /.mobile-side-menu -->
+        <div class="mobile-side-menu-overlay"></div>
+
+        <section class="hero-section bg-dark-1">
+            <div class="bg-pattern" data-background="assets/img/shapes/bg-pattern.png"></div>
+            <div class="container hero-container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="hero-content">
+                            <div class="hero-right-content">
+                                <h2 class="title text-animation-effect">Guidance <br> For Business <br><span>Success</span></h2>
+                                <div class="hero-client-wrap">
+                                    <p class="hero-desc">operational improvements leadership development, this guidance empowers you to achieve your goals with clarity and confidence, paving the way for long</p>
+                                    <ul class="hero-author-list">
+                                        <li><img src="assets/img/images/hero-author-1.png" alt="author"></li>
+                                        <li><img src="assets/img/images/hero-author-2.png" alt="author"></li>
+                                        <li><img src="assets/img/images/hero-author-3.png" alt="author"></li>
+                                        <li class="icon"><i class="fa-regular fa-plus"></i></li>
+                                    </ul>
+                                    <p class="desc">We have 18k+ customers <br> word-wide</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-video-box">
+                <video class="video-area" loop="" muted="" autoplay="" playsinline="">
+                    <source src="assets/img/video/hero-video.mp4" type="video/mp4">
+                </video>
+            </div>
+        </section>
+        <!-- ./ hero-section -->
+
+        <section class="about-section pt-150 pb-150">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="about-left-content">
+                            <div class="section-heading mb-30">
+                                <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03"><img src="assets/img/icon/section-heading.png" alt="icon">Who we are</h4>
+                            </div>
+                            <div class="about-counter">
+                                <h3 class="title"><span class="odometer" data-count="32">0</span><span class="icon">+</span></h3>
+                                <p>Years Experience</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="about-content fade-wrapper">
+                            <div class="section-heading mb-30">
+                                <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-duration="1" data-stagger="0.2">Innovative Consulting for Forward-<span>Thinking Businesses</span></h2>
+                            </div>
+                            <p class="fade-top">Empowering ambitious businesses to navigate challenges and seize opportunities, we deliver cutting-edge strategies tailored to your goals. Our forward-thinking approach combines market insights, technology, and expertise to drive</p>
+                            <div class="about-img-wrap">
+                                <div class="about-img-1 img-reveal">
+                                    <div class="img-overlay"></div>
+                                    <img src="assets/img/images/about-img-1.png" alt="about">
+                                </div>
+                                <div class="about-img-2 img-reveal">
+                                    <div class="img-overlay"></div>
+                                    <img src="assets/img/images/about-img-2.png" alt="about">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ about-section -->
+
+        <div class="running-text">
+            <div class="carouselTicker carouselTicker-start" data-speed="fast">
+                <ul class="text-anim carouselTicker__list">
+                    <li>Business <span>Consulting</span></li>
+                    <li>Tax <span>Consulting</span></li>
+                    <li>Business <span>Planning</span></li>
+                    <li>human <span>resource</span></li>
+                    <li>human <span>resource</span></li>
+                    <li>Business <span>Consulting</span></li>
+                    <li>Tax <span>Consulting</span></li>
+                    <li>Business <span>Planning</span></li>
+                    <li>human <span>resource</span></li>
+                    <li>human <span>resource</span></li>
+                </ul>
+            </div>
+        </div>
+        <!-- ./ running-text -->
+
+        <section class="service-section bg-dark-1 pt-150 pb-150 overflow-hidden">
+            <div class="bg-pattern" data-background="assets/img/shapes/bg-pattern.png"></div>
+            <div class="container">
+                <div class="service-top heading-space">
+                    <div class="section-heading mb-0 white-content">
+                        <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03"><img src="assets/img/icon/section-heading-2.png" alt="icon">Our Services</h4>
+                        <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-duration="1" data-stagger="0.2">Business Consulting <br><span>Services</span></h2>
+                    </div>
+                    <div class="swiper-arrow">
+                        <div class="swiper-nav swiper-next"><img src="assets/img/icon/service-arrow-1.png" alt="icon"></div>
+                        <div class="swiper-nav swiper-prev"><img src="assets/img/icon/service-arrow-2.png" alt="icon"></div>
+                    </div>
+                </div>
+                <div class="service-carousel swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-1.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Business Planning</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-2.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Tax Consulting</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-3.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Human Resource</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-4.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Business Advice</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-1.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Business Planning</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-2.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Tax Consulting</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-3.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Human Resource</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-item">
+                                <div class="shape"><img src="assets/img/shapes/service-item-shape-1.png" alt="shape"></div>
+                                <div class="icon"><img src="assets/img/icon/service-4.png" alt="service"></div>
+                                <div class="service-content">
+                                    <h3 class="title"><a href="service-details.html">Business Advice</a></h3>
+                                    <p>Strategically shaping your vision <br> into actionable goals</p>
+                                    <a href="service-details.html" class="cp-primary-btn service-btn">
+                                        <span class="btn-text">
+                                            <span class="btn-text-1">Load More</span>
+                                            <span class="btn-text-2">Load More</span>
+                                        </span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ service-section -->
+
+        <section class="promo-section pt-150 pb-150">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-12">
+                        <div class="promo-left-content fade-wrapper">
+                            <div class="promo-left-inner fade-top">
+                                <ul class="hero-author-list">
+                                    <li><img src="assets/img/images/hero-author-1.png" alt="author"></li>
+                                    <li><img src="assets/img/images/hero-author-2.png" alt="author"></li>
+                                    <li><img src="assets/img/images/hero-author-3.png" alt="author"></li>
+                                    <li class="icon"><i class="fa-regular fa-plus"></i></li>
+                                </ul>
+                                <p class="desc">happy clients of <br>our Services</p>
+                            </div>
+                            <div class="promo-video-box fade-top">
+                                <img src="assets/img/images/promo-img-1.png" alt="promo">
+                                <div class="play-btn">
+                                    <a
+                                        class="video-popup venobox"
+                                        data-autoplay="true"
+                                        data-vbtype="video"
+                                        href="https://youtu.be/JwC-Qx1lJso">
+                                        <span><i class="fa-solid fa-play"></i></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-9 col-lg-12">
+                        <div class="promo-right-content fade-wrapper">
+                            <div class="section-heading">
+                                <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03"><img src="assets/img/icon/section-heading.png" alt="icon">Our Approach</h4>
+                                <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-duration="1" data-stagger="0.2">Consulting That <br> Drives Real- <span>World <br> Results</span></h2>
+                            </div>
+                            <div class="row gy-lg-0 gy-4">
+                                <div class="col-lg-4 col-md-6 fade-top">
+                                    <div class="promo-item">
+                                        <div class="icon"><i class="fa-solid fa-check"></i></div>
+                                        <h3 class="title">Growth <br>Strategies</h3>
+                                        <p>Empowering businesses with plans to expand</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 fade-top">
+                                    <div class="promo-item item-2">
+                                        <div class="icon"><i class="fa-solid fa-check"></i></div>
+                                        <h3 class="title">Digital <br>Transformation</h3>
+                                        <p>Helping businesses innovative technologies</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 fade-top">
+                                    <div class="promo-item item-3">
+                                        <div class="icon"><i class="fa-solid fa-check"></i></div>
+                                        <h3 class="title">Innovation <br>Support</h3>
+                                        <p>Empowering businesses with plans to expand</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ promo-section -->
+
+        <section class="project-section pt-150 bg-dark-1">
+            <div class="bg-pattern" data-background="assets/img/shapes/bg-pattern.png"></div>
+            <div class="bg-color"></div>
+            <div class="container">
+                <div class="section-heading text-center white-content">
+                    <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03"><img src="assets/img/icon/section-heading-2.png" alt="icon">Portfolio</h4>
+                    <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-duration="1" data-stagger="0.2">Excellent Projects  <br><span>example</span></h2>
+                </div>
+            </div>
+            <div class="project-carousel-wrap">
+                <div class="project-carousel swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <img src="assets/img/project/project-img-1.png" alt="project">
+                                    <div class="overlay"></div>
+                                </div>
+                                <div class="project-content">
+                                    <h3 class="title"><a href="portfolio-details.html">Business Study</a></h3>
+                                    <span>Advice</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <img src="assets/img/project/project-img-2.png" alt="project">
+                                    <div class="overlay"></div>
+                                </div>
+                                <div class="project-content">
+                                    <h3 class="title"><a href="portfolio-details.html">Business Study</a></h3>
+                                    <span>Advice</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="project-item">
+                                <div class="project-thumb">
+                                    <img src="assets/img/project/project-img-3.png" alt="project">
+                                    <div class="overlay"></div>
+                                </div>
+                                <div class="project-content">
+                                    <h3 class="title"><a href="portfolio-details.html">Business Study</a></h3>
+                                    <span>Advice</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-pagination-wrap container">
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ project-section -->
+
+        <section class="testimonial-section bg-white pt-150 pb-150">
+            <div class="container testi-wrapper">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12">
+                        <div class="testi-left-content">
+                            <div class="testi-rating"><img src="assets/img/shapes/rating.png" alt="rating"></div>
+                            <div class="testi-client-wrap">
+                                <ul class="testi-author-list">
+                                    <li><img src="assets/img/images/hero-author-1.png" alt="author"></li>
+                                    <li><img src="assets/img/images/hero-author-2.png" alt="author"></li>
+                                    <li><img src="assets/img/images/hero-author-3.png" alt="author"></li>
+                                    <li class="icon"><i class="fa-regular fa-plus"></i></li>
+                                </ul>
+                                <p class="desc">More then 25K clients <br> Reviews</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-9 col-md-12">
+                        <div class="testi-right-content">
+                            <div class="section-heading">
+                                <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03"><img src="assets/img/icon/section-heading.png" alt="icon">Clients Reviews</h4>
+                                <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-duration="1" data-stagger="0.2">What clients say <br><span>about us</span></h2>
+                            </div>
+                            <div class="testi-carousel-2 swiper">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <div class="testi-item-wrap">
+                                            <div class="testi-item">
+                                                <div class="icon"><img src="assets/img/icon/quote.png" alt="quote"></div>
+                                                <p>Our forward-thinking approach combines market insights, technology, and expertise to drive sustainable growth and long-term success</p>
+                                                <div class="testi-author-box">
+                                                    <div class="testi-author">
+                                                        <div class="content">
+                                                            <h4 class="name">Ramon Liam</h4>
+                                                            <span>Sr. Developer</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="testi-author-img">
+                                                <img src="assets/img/images/testi-author-img-1.png" alt="testi">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testi-item-wrap">
+                                            <div class="testi-item">
+                                                <div class="icon"><img src="assets/img/icon/quote.png" alt="quote"></div>
+                                                <p>Our forward-thinking approach combines market insights, technology, and expertise to drive sustainable growth and long-term success</p>
+                                                <div class="testi-author-box">
+                                                    <div class="testi-author">
+                                                        <div class="content">
+                                                            <h4 class="name">Ramon Liam</h4>
+                                                            <span>Sr. Developer</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="testi-author-img">
+                                                <img src="assets/img/images/testi-author-img-1.png" alt="testi">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <div class="testi-item-wrap">
+                                            <div class="testi-item">
+                                                <div class="icon"><img src="assets/img/icon/quote.png" alt="quote"></div>
+                                                <p>Our forward-thinking approach combines market insights, technology, and expertise to drive sustainable growth and long-term success</p>
+                                                <div class="testi-author-box">
+                                                    <div class="testi-author">
+                                                        <div class="content">
+                                                            <h4 class="name">Ramon Liam</h4>
+                                                            <span>Sr. Developer</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="testi-author-img">
+                                                <img src="assets/img/images/testi-author-img-1.png" alt="testi">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ testimonial-section -->
+
+        <div class="video-section">
+            <div class="bg-img" data-background="assets/img/bg-img/video-bg.png"></div>
+            <div class="play-btn">
+                <a
+                    class="video-popup venobox"
+                    data-autoplay="true"
+                    data-vbtype="video"
+                    href="https://youtu.be/JwC-Qx1lJso">
+                    <span><i class="fa-solid fa-play"></i></span>
+                    <img class="explore-text" src="assets/img/icon/hero-btn.png" alt="text">
+                </a>
+            </div>
+        </div>
+        <!-- ./ video-section -->
+
+        <div class="sponsor-section">
+            <div class="container">
+                <div class="sponsor-carousel swiper">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-1.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-2.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-3.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-4.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-5.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="sponsor-item text-center">
+                                <a href="#"><img src="assets/img/sponsor/sponsor-6.png" alt="sponsor"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ./ sponsor-section -->
+
+        <section class="blog-section pt-150 pb-150 fade-wrapper">
+            <div class="container">
+                <div class="blog-top heading-space">
+                    <div class="section-heading mb-0">
+                        <h4 class="sub-heading" data-text-animation="fade-in-right" data-split="char" data-duration="0.9" data-stagger="0.03">Blogs & NewsBlogs & News</h4>
+                        <h2 class="section-title" data-text-animation="fade-in-bottom-line" data-split="line" data-duration="1" data-stagger="0.2">Update Blog and <br><span>News</span></h2>
+                    </div>
+                    <div class="blog-top-btn">
+                        <a href="blog-grid.html" class="cp-primary-btn">
+                            <span class="btn-text">
+                                <span class="btn-text-1">All Blogs<i class="fa-solid fa-arrow-right-long"></i></span>
+                                <span class="btn-text-2">All Blogs<i class="fa-solid fa-arrow-right-long"></i></span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row gy-lg-0 gy-4 fade-wrapper">
+                    <div class="col-lg-4 col-md-6 fade-top">
+                        <div class="post-card">
+                            <div class="post-thumb">
+                                <img src="assets/img/blog/post-1.jpg" alt="post">
+                            </div>
+                            <div class="post-content">
+                                <h3 class="title"><a href="blog-details.html">Business Development Advisory Services</a></h3>
+                                <ul class="post-meta">
+                                    <li class="category-text">10 feb, 2025</li>
+                                    <li>5 min Read</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 fade-top">
+                        <div class="post-card">
+                            <div class="post-thumb">
+                                <img src="assets/img/blog/post-2.jpg" alt="post">
+                            </div>
+                            <div class="post-content">
+                                <h3 class="title"><a href="blog-details.html">Explore the Essence of Your New business</a></h3>
+                                <ul class="post-meta">
+                                    <li class="category-text">10 feb, 2025</li>
+                                    <li>5 min Read</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 fade-top">
+                        <div class="post-card">
+                            <div class="post-thumb">
+                                <img src="assets/img/blog/post-3.jpg" alt="post">
+                            </div>
+                            <div class="post-content">
+                                <h3 class="title"><a href="blog-details.html">Providing brilliant ideas For Your business</a></h3>
+                                <ul class="post-meta">
+                                    <li class="category-text">10 feb, 2025</li>
+                                    <li>5 min Read</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ./ blog-section -->
+
+        <footer class="footer-section overflow-hidden">
+            <div class="bg-pattern" data-background="assets/img/shapes/bg-pattern.png"></div>
+            <div class="container">
+                <div class="footer-text text-center">
+                    <h1 class="footer-header">let's talk us <a href="contact.html" class="contact-btn"><i class="fa-regular fa-arrow-right"></i></a></h1>
+                </div>
+                <div class="row footer-wrap">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget">
+                            <div class="widget-header">
+                                <div class="footer-logo">
+                                    <a href="index-2.html"><img src="assets/img/logo/logo-1.png" alt="logo"></a>
+                                </div>
+                            </div>
+                            <p class="mb-25">Also known creative marketing <br> Agency or Advertising</p>
+                            <ul class="social-list">
+                                <li class="facebook">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="pinterest">
+                                    <a href="#"><i class="fab fa-pinterest"></i></a>
+                                </li>
+                                <li class="twitter">
+                                    <a href="#"><i class="fab fa-behance"></i></a>
+                                </li>
+                                <li class="instagram">
+                                    <a href="#"><i class="fab fa-instagram"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget footer-col-2">
+                            <div class="widget-header">
+                                <h3 class="widget-title">Address</h3>
+                            </div>
+                            <ul class="address-list">
+                                <li>2464 Royal Ln. Mesa, New <br> Jersey 45463</li>
+                                <li><a href="tel:+2585492153215">+258 (549) 2158 3215</a></li>
+                                <li><a href="mailto:support@agency.com">support@agency.com</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget footer-col-2">
+                            <div class="widget-header">
+                                <h3 class="widget-title">Pages</h3>
+                            </div>
+                            <ul class="footer-list">
+                                <li><a href="index-2.html">Home</a></li>
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="contact.html">Consulting</a></li>
+                                <li><a href="contact.html">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="footer-widget">
+                            <div class="widget-header">
+                                <h3 class="widget-title">Subscribe</h3>
+                            </div>
+                            <div class="footer-form mb-20">
+                                <form action="#" class="ts-subscribe-form">
+                                    <input class="form-control" type="email" name="email" placeholder="Email address">
+                                    <input type="hidden" name="action" value="mailchimpsubscribe">
+                                    <button class="submit"><i class="fa-light fa-paper-plane"></i></button>
+                                </form>
+                            </div>
+                            <div class="form-check form-item">
+                                <input class="form-check-input" type="checkbox" value="" id="man">
+                                <label class="form-check-label" for="man">
+                                    I agree with the terms and conditions
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright-area">
+                <div class="container">
+                    <div class="row copyright-content">
+                        <div class="col-md-6">
+                            <p>© 2025 Navraj Global Advisors . All Rights Reserved.</p>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="copyright-list">
+                                <li><a href="contact.html">Terms of Service  </a></li>
+                                <li><a href="contact.html">Privacy Policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- ./ footer-section -->
+
+        <div id="scroll-percentage"><span id="scroll-percentage-value"></span></div>
+        <!--scrollup-->
+
+        <!-- JS here -->
+        <script src="assets/js/vendor/jquary-3.7.1.min.js"></script>
+        <script src="assets/js/vendor/bootstrap-bundle.js"></script>
+        <script src="assets/js/vendor/imagesloaded-pkgd.js"></script>
+        <script src="assets/js/vendor/waypoints.min.js"></script>
+        <script src="assets/js/vendor/venobox.min.js"></script>
+        <script src="assets/js/vendor/odometer.min.js"></script>
+        <script src="assets/js/vendor/meanmenu.js"></script>
+        <script src="assets/js/vendor/jquery.isotope.js"></script>
+        <script src="assets/js/vendor/swiper.min.js"></script>
+        <script src="assets/js/vendor/split-type.min.js"></script>
+        <script src="assets/js/vendor/gsap.min.js"></script>
+        <script src="assets/js/vendor/scroll-trigger.min.js"></script>
+        <script src="assets/js/vendor/smooth-scroll.js"></script>
+        <script src="assets/js/vendor/jquery.carouselTicker.js"></script>
+        <script src="assets/js/vendor/nice-select.js"></script>
+        <script src="assets/js/contact.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+
+<!-- Mirrored from Navraj Global Advisors.geekslabthemes.com/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Jul 2025 11:03:35 GMT -->
+</html>

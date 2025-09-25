@@ -193,7 +193,7 @@
                         </li>
                         <li>
                             <i class="fas fa-phone"></i>
-                            <a href="tel:+000123456789">+000 123 (456) 789</a>
+                            <a href="tel:9810944808">9810944808</a>
                         </li>
                         <li>
                             <i class="fas fa-envelope-open-text"></i>
@@ -229,7 +229,7 @@
                         </li>
                         <li>
                             <i class="fas fa-phone"></i>
-                            <a href="tel:+000123456789">+000 123 (456) 789</a>
+                            <a href="tel:9810944808">9810944808</a>
                         </li>
                         <li>
                             <i class="fas fa-envelope-open-text"></i>
@@ -449,7 +449,7 @@
                             </div>
                             <ul class="address-list">
                                 <li>2464 Royal Ln. Mesa, New <br> Jersey 45463</li>
-                                <li><a href="tel:+2585492153215">+258 (549) 2158 3215</a></li>
+                                <li><a href="tel:+9810944808">+258 (549) 2158 3215</a></li>
                                 <li><a href="mailto:support@agency.com">support@agency.com</a></li>
                             </ul>
                         </div>

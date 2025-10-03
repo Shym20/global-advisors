@@ -147,7 +147,7 @@
   <div class="dropdown-menu dropdown-mega-custom mt-0 border-0" aria-labelledby="servicesDropdown">
     <div class="row gx-4">
       <div class="col-md-6">
-        <h6><a class="dropdown-item" href="indianService.html">Services For Inida</a></h6>
+        <h6><a class="dropdown-item" href="indianservice.html">Services For Inida</a></h6>
           <h6> <a class="dropdown-item" href="uae -service.html">Services For UAE</a></h6>
            <h6><a class="dropdown-item" href="us-service.html">Services For US</a></h6>
       </div>

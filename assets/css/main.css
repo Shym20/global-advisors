@@ -564,7 +564,7 @@ ul {
 .img-reveal {
   position: relative;
   overflow: hidden;
-  visibility: hidden;
+  /* visibility: hidden; */
   z-index: 1;
 }
 .img-reveal .img-overlay {

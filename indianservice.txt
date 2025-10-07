@@ -459,7 +459,7 @@
 
           <!-- Transfer Pricing -->
           <div class="mb-4">
-            <h5 class="fw-bold">• Transfer Pricing (TP):</h5>
+            <h5 class="fw-bold">• Transfer Pricing:</h5>
             <ul class="list-unstyled ms-3">
               <li>TP study</li>
               <li>Accountant’s report</li>

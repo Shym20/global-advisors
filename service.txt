@@ -381,7 +381,7 @@
             </li>
             <li>
               <i class="fas fa-envelope-open-text"></i>
-              <a href="mailto:Navraj Global Advisors@gmail.com">info@navrajglobal.com</a>
+              <a href="mailto:Navraj Global Advisors@gmail.com">ceo@navrajglobal.com</a>
             </li>
           </ul>
         </div>
